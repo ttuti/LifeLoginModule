@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88690094393",
+    "firebase_url": "https://life-92001300.firebaseio.com",
+    "project_id": "life-92001300",
+    "storage_bucket": "life-92001300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88690094393:android:09069d35dd7cb1a0",
+        "android_client_info": {
+          "package_name": "uk.ac.ox.NDM.LIFE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88690094393-iov4kt8j8sd7un5g7n03b6lke4hfr5tl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "88690094393-oe5da155v0gcfj4pglmhcjv8vkd4d2ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.ox.NDM.LIFE",
+            "certificate_hash": "91375f0467b9a8692237cac472a65ffb096dd5ba"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYW2Lu6FPDHbZS5W5uH0muyDOVt7sHJKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88690094393-iov4kt8j8sd7un5g7n03b6lke4hfr5tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
