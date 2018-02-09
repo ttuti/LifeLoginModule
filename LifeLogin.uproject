@@ -22,6 +22,11 @@
 		{
 			"Name": "gameDNAinstaller",
 			"Enabled": true
+		},
+		{
+			"Name": "RealtimeDatabase",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7196dcdd399348f6b883d11fbb84da34"
 		}
 	]
 }
